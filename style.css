@@ -1,0 +1,130 @@
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+body {
+    text-align: center;
+
+}
+#home{
+    background: linear-gradient(#a4ffd8 10%,#21daff 90%);
+}
+
+
+.hello {
+    font-family: cursive;
+    color:deeppink;
+    text-shadow: 2px 2px #ffd60a;
+    font-size: 40px;
+}
+
+.hobbies {
+    color:rgb(255, 168, 133);
+    font-size: 35px ;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    right: 30px;
+    left: 5px;
+    cursor: pointer;
+    background:ghostwhite;
+    width: 150%;
+    margin-top: -5px;
+
+  }
+
+
+
+  
+
+
+
+  .link {
+    float: left;
+    color:violet;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 35px;
+    font-family: 'Festive', cursive;
+    
+
+ }
+
+ .link:hover {
+     background-color:mistyrose ;
+     text-decoration: underline;
+     font-size: 40px;
+ }
+
+ .MF {
+     
+     font-size: 55px;
+     color: #ff4d6d;
+ }
+
+ .mp {
+     height: 250px;
+     width: 250px;
+     border-radius: 500px;
+ }
+
+
+ #about {
+    background: linear-gradient(#ffd60a 10%,#ff4d6d 90%);
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 35px;
+    color: white;
+}
+
+.fs {
+    font-size: 25px;
+}
+
+.fm {
+    font-size: 25px;
+}
+
+.favimg1 {
+    height: 350px;
+    width: 450px;
+}
+
+#myfavourite {
+    background: linear-gradient(#4adede 10%, #787ff6 90%);
+    font-size: 30px;
+}
+
+.a {
+    font-size: 55px;
+}
+
+.v {
+    height: 250px;
+    width: 250px;
+    border-radius: 500px;
+}
+
+#videos {
+    background: linear-gradient(#FFCAD4 10%, #7BE495 90%);
+    font-size: 30px;
+    text-align: center;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+#contacts {
+    background: linear-gradient(#ffbbf9 10%, #68eaf4 90%);
+    font-size: 30px;
+    text-align: center;
+}
