@@ -128,3 +128,9 @@ img:hover {
     font-size: 30px;
     text-align: center;
 }
+
+.Actress {
+    height: 250px;
+    width: 250px;
+    border-radius: 500px;
+}
